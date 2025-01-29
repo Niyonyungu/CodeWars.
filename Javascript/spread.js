@@ -11,14 +11,17 @@ console.log("combined2", combined2);
 //combining Object
 
 const person = {
-    name: 'vainqueur'
+    name: 'vainqueur',
+    age: '20'
 }
 
 const job = {
     title: 'sd'
 }
 
-const identity = {...person , ...job, location: 'austraria'}
+const identity = { ...person, ...job, location: 'austraria' }
+const identity2 = { ...person, ...job, location: 'austraria', age: '22'}
 console.log("identity", identity);
+console.log("identity2", identity2);
 
 
