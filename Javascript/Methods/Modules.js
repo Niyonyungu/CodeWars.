@@ -1,4 +1,4 @@
-import { Teacher } from "./ClassesModules/teacher";
+import { Teacher } from "../ClassesModules/teacher";
 
 const teacher = new Teacher('vainqueur', 'MSC');
 
