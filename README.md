@@ -1,3 +1,3 @@
-## Welcome to My CodeWars Kata Solutions
+## Welcome to My JS Practice &  CodeWars Kata Solutions
 
 
